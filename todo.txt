@@ -1,4 +1,8 @@
 To be done:
+<<<<<<< HEAD
 1: Pochi: Pochi is laziest dog ever we have seen.
 
+=======
+1: AltCampus: it is organization which is in Dharmshala in Himanchal Pradesh.
+>>>>>>> Altcampus
 
